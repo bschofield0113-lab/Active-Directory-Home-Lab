@@ -53,11 +53,11 @@ Designed and deployed an Active Directory Domain Services testing environment us
 | Screenshot | Description |
 |------------|-------------|
 | ![AD Installed](images/ad-installed.png) | Active Directory installed on Windows Server 2025 running on VMware |
-| ![Domain Structure](images.md/domain-structure.png) | Domain populated with Groups, Departments, and Users |
-| ![User Properties](images.md/user-properties.png) | User properties showing group and department membership |
-| ![Password Reset](images.md/password-reset.png) | Password reset performed on a user account |
-| ![Domain Join](images.md/domain-join.png) | Windows 11 client successfully joined to the domain |
-| ![Computer Object](images.md/computer-object.png) | Computer object visible in Active Directory Users and Computers |
+| ![Domain Structure](images/domain-structure.png) | Domain populated with Groups, Departments, and Users |
+| ![User Properties](images/user-properties.png) | User properties showing group and department membership |
+| ![Password Reset](images/password-reset.png) | Password reset performed on a user account |
+| ![Domain Join](images/domain-join.png) | Windows 11 client successfully joined to the domain |
+| ![Computer Object](images/pc1-connected.png) | PC1 visible in Active Directory Users and Computers |
 
 ## Results
 
