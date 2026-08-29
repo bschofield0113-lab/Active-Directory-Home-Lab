@@ -52,7 +52,7 @@ Designed and deployed an Active Directory Domain Services testing environment us
 
 | Screenshot | Description |
 |------------|-------------|
-| ![AD Installed](images.md/ad-installed.png) | Active Directory installed on Windows Server 2025 running on VMware |
+| ![AD Installed]([images.md/ad-installed.png](https://github.com/user-attachments/assets/127f94dd-b3e3-4cb7-967c-ed2b3769db9f)) | Active Directory installed on Windows Server 2025 running on VMware |
 | ![Domain Structure](images.md/domain-structure.png) | Domain populated with Groups, Departments, and Users |
 | ![User Properties](images.md/user-properties.png) | User properties showing group and department membership |
 | ![Password Reset](images.md/password-reset.png) | Password reset performed on a user account |
